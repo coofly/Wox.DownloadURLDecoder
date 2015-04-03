@@ -1,0 +1,12 @@
+{
+    "ID":"4518823AE3ED2817C296F1E8DDA5E3E0",
+    "ActionKeyword":"dud",
+    "Name":"Wox Download URL Decoder",
+    "Description":"Help you decode a variety of download urls.",
+    "Author":"coofly",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"http://www.coofly.com",
+    "ExecuteFileName":"download_url_decoder.py",
+    "IcoPath":"ico.png"
+}
